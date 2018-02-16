@@ -29,3 +29,9 @@ triple_1.0.3.py
 1.0.4
 added full SUB support
 triple_1.0.4.py
+1.0.5
+fixed infinite looping
+triple_1.0.5.py
+1.0.6
+fixed that annoying PRI PRI bug
+triple_1.0.6.py
