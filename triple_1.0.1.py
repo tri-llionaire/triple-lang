@@ -13,7 +13,7 @@ while 1 == 1:
     if dic[0] == 'END':
         break
     else:
-        string = '\' '
+        string = ' \''
         command = ''
         string += str(dic[1])
         command = commands[dic[0]]
