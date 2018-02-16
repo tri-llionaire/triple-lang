@@ -2,4 +2,5 @@ Triple-Lang
 Currently being updated to include the whole TRIPLE language, one of my own.
 Built with Python 2.
 Built by Tristan Price.
-Current best version is triple_1.0.1.py.
+Triple 1.x.x is an different approach to the transpiler.
+They work better than the Triple 0.x.x.
