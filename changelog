@@ -20,3 +20,9 @@ triple_1.0.0.py
 1.0.1
 added END support
 triple_1.0.1.py
+1.0.2
+added PRI ADD support
+triple_1.0.2.py
+1.0.3
+added full ADD support
+triple_1.0.3.py
