@@ -10,7 +10,7 @@ while 1 == 1:
     while len(dic) < len(usrarray):
         dic.append(usrarray[x])
         x += 1
-    string = '\' '
+    string = ' \''
     command = ''
     string += str(dic[1])
     command = commands[dic[0]]
