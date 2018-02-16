@@ -28,3 +28,5 @@ added full MUL support
 added full DIV support
 1.0.9
 fully fixed PRI PRI repetitiveness
+1.1.0
+added GET support
