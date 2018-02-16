@@ -1,0 +1,19 @@
+0.0.1
+Original
+tokenizer_0.0.1.py
+0.0.2
+added string formatting in python conversion
+tokenizer_0.0.2.py
+0.0.3
+added python execution of TRIPLE code
+tokenizer_0.0.3.py
+0.0.4
+added infinite looping of program
+tokenizer_0.0.4.py
+0.0.5
+added END to end looping
+tokenizer_0.0.5.py
+
+1.0.0
+optimized for one-liners
+tokenizer_1.0.0.py
