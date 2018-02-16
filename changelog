@@ -1,37 +1,26 @@
 0.0.1
 original
-triple_0.0.1.py
 0.0.2
 added string formatting in python conversion
-triple_0.0.2.py
 0.0.3
 added python execution of TRIPLE code
-triple_0.0.3.py
 0.0.4
 added infinite looping of program
-triple_0.0.4.py
 0.0.5
 added END to end looping
-triple_0.0.5.py
-
 1.0.0
-optimized for one-liners
-triple_1.0.0.py
+optimized for one-line commands
 1.0.1
 added END support
-triple_1.0.1.py
 1.0.2
 added PRI ADD support
-triple_1.0.2.py
 1.0.3
 added full ADD support
-triple_1.0.3.py
 1.0.4
 added full SUB support
-triple_1.0.4.py
 1.0.5
 fixed infinite looping
-triple_1.0.5.py
 1.0.6
 fixed that annoying PRI PRI bug
-triple_1.0.6.py
+1.0.7
+added full MUL support
