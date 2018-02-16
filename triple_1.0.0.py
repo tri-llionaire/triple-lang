@@ -2,7 +2,7 @@
 print 'WELCOME TO THE TRIPLE CONSOLE\n'
 while 1 == 1:
     dic = []
-    commands = {'PRI': 'print', 'END': 'exit'}
+    commands = {'PRI': 'print'}
     string = ''
     usrinput = raw_input()
     usrarray = usrinput.split()
