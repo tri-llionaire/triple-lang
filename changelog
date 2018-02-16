@@ -24,3 +24,5 @@ fixed infinite looping
 fixed that annoying PRI PRI bug
 1.0.7
 added full MUL support
+1.0.8
+added full DIV support
