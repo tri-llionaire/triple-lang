@@ -21,8 +21,10 @@ added full SUB support
 1.0.5
 fixed infinite looping
 1.0.6
-fixed that annoying PRI PRI bug
+hopefully fixed that annoying PRI PRI bug
 1.0.7
 added full MUL support
 1.0.8
 added full DIV support
+1.0.9
+fully fixed PRI PRI repetitiveness
