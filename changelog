@@ -38,3 +38,7 @@ added full LSS support
 added full GRT support
 1.1.4
 added full EQL support
+1.1.5
+added full LEQ support
+1.1.6
+added full GEQ support
