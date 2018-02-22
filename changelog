@@ -42,3 +42,5 @@ added full EQL support
 added full LEQ support
 1.1.6
 added full GEQ support
+1.1.7
+fixed str index out of range bug
