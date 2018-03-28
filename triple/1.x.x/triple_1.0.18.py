@@ -1,6 +1,6 @@
 #TRIPLE-LANG
-print 'WELCOME TO THE TRIPLE CONSOLE\n'
-while 1 == 1:
+print 'TRIPLE-LANG TRANSPILER IN PYTHON\n'
+while True:
     dic = []
     commands = ['PRI', 'END', 'ADD', 'SUB', 'MUL', 'DIV', 'GET', 'LSS', 'GRT', 'EQL', 'LEQ', 'GEQ']
     num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, -1, -2, -3, -4, -5, -6, -7, -8, -9]
