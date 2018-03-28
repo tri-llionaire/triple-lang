@@ -46,3 +46,5 @@ added full GEQ support
 fixed str index out of range bug
 1.0.18
 streamlined it a bit
+1.0.19
+GET now returns input
