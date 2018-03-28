@@ -48,3 +48,5 @@ fixed str index out of range bug
 streamlined it a bit
 1.0.19
 GET now returns input
+1.0.20
+improved GET returning
