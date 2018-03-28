@@ -44,3 +44,5 @@ added full LEQ support
 added full GEQ support
 1.0.17
 fixed str index out of range bug
+1.0.18
+streamlined it a bit
