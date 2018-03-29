@@ -6,7 +6,7 @@ added string formatting in python conversion
 added python execution of TRIPLE code
 0.1.0
 added infinite looping of program
-0.0.5
+0.1.1
 added END to end looping
 1.0.0
 optimized for one-line commands
@@ -52,3 +52,5 @@ GET now returns input
 improved GET returning
 1.1.0
 added PUT support (updated from PRI)
+1.1.1
+improved internal string concatenation
