@@ -1,24 +1,13 @@
-0.0.x
-=====
-
 0.0.1
 original
 0.0.2
 added string formatting in python conversion
 0.0.3
 added python execution of TRIPLE code
-
-0.1.x
-=====
-
 0.1.0
 added infinite looping of program
 0.1.1
 added END to end looping
-
-1.0.x
-=====
-
 1.0.0
 optimized for one-line commands
 1.0.1
@@ -61,10 +50,6 @@ streamlined it a bit
 GET now returns input
 1.0.20
 improved GET returning
-
-1.1.x
-=====
-
 1.1.0
 added PUT support (updated from PRI)
 1.1.1
