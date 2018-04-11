@@ -7,6 +7,7 @@ original
 added string formatting in python conversion
 0.0.3
 added python execution of TRIPLE code
+
 0.1.x
 =====
 
@@ -14,6 +15,7 @@ added python execution of TRIPLE code
 added infinite looping of program
 0.1.1
 added END to end looping
+
 1.0.x
 =====
 
@@ -59,6 +61,7 @@ streamlined it a bit
 GET now returns input
 1.0.20
 improved GET returning
+
 1.1.x
 =====
 
