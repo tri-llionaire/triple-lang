@@ -3,5 +3,12 @@ TRIPLE-LANG
 Currently being updated to include the whole TRIPLE language, one of my own.
 Transpiled by Python 2.
 Built by Tristan Price.
-Dictionary of TRIPLE commands will follow eventually.
- 
+For example:
+`PUT Hello, world!`
+would return:
+`Hello, world!`
+while most other commands like
+`5 LSS 3`
+would return 
+`False`
+or something like that.
