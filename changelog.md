@@ -10,6 +10,7 @@ added string formatting in python conversion
 
 added python execution of TRIPLE code
 
+
 **0.1.0**
 
 added infinite looping of program
@@ -17,6 +18,8 @@ added infinite looping of program
 **0.1.1**
 
 added END to end looping
+
+
 
 **1.0.0**
 
@@ -101,6 +104,7 @@ GET now returns input
 **1.0.20**
 
 improved GET returning
+
 
 **1.1.0**
 
