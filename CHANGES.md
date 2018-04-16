@@ -111,7 +111,13 @@ added PUT support (updated from PRI)
 improved internal string concatenation
 
 **1.1.2**
-improved PUT outputting to save time
+
+improved PUT outputting to save exec time
 
 **1.1.3**
+
 improved PUT outputting to eliminate errors
+
+**1.1.4**
+
+changed prompt at startup
