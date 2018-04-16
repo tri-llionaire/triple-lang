@@ -1,25 +1,25 @@
 TRIPLE 7.0
 ==========
-PUT print
+PUT: print
 
-GET get object as variable
+GET: get object as variable
 
-END ends program
+END: ends program
 
-ADD add
+ADD: add
 
-SUB subtract
+SUB: subtract
 
-MUL multiply
+MUL: multiply
 
-DIV divide
+DIV: divide
 
-LSS less than
+LSS: less than
 
-GRT greater than
+GRT: greater than
 
-EQL equal to
+EQL: equal to
 
-LEQ less than or equal to
+LEQ: less than or equal to
 
-GEQ greater than or equal to
+GEQ: greater than or equal to
