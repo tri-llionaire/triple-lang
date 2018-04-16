@@ -109,3 +109,9 @@ added PUT support (updated from PRI)
 **1.1.1**
 
 improved internal string concatenation
+
+**1.1.2**
+improved PUT outputting to save time
+
+**1.1.3**
+improved PUT outputting to eliminate errors
