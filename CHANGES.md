@@ -121,3 +121,7 @@ improved PUT outputting to eliminate errors
 **1.1.4**
 
 changed prompt at startup
+
+**1.1.5**
+
+number operations now return answer without PUT
