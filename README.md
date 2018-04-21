@@ -20,4 +20,10 @@ would return
 
 `False`
 
-or something like that.
+and 
+
+`5 ADD 3`
+
+would return 
+
+`8`
