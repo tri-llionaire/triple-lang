@@ -1,5 +1,5 @@
 #TRIPLE-LANG
-print 'TRIPLE-LANG TRANSPILER V1.1.4\n'
+print 'TRIPLE-LANG TRANSPILER V1.1.5\n'
 while True:
     dic = []
     commands = ['PUT', 'END', 'ADD', 'SUB', 'MUL', 'DIV', 'GET', 'LSS', 'GRT', 'EQL', 'LEQ', 'GEQ']
