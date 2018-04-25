@@ -125,3 +125,7 @@ changed prompt at startup
 **1.1.5**
 
 number operations now return answer without PUT
+
+**1.1.6**
+
+fixed error with error calling
